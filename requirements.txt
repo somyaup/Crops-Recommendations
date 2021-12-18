@@ -1,0 +1,7 @@
+https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-2.4.1-py3-none-any.whl
+tensorflow-2.4.1
+pandas
+matplotlib
+utils
+sklearn
+six numpy wheel
